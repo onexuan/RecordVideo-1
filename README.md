@@ -3,9 +3,9 @@ Android - 录制小视频View Demo（拍照 + 视频） 支持前、后置，录
 
 ### 预览
 
-<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img1.png" height="640" width="360"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img2.png" height="640" width="360"/>
+<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img1.png" width="360"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img2.png" width="360"/>
 
-<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img3.png" height="640" width="360"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img4.png" height="640" width="360"/>
+<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img3.png" width="360"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/afkT/RecordVideo/master/mdfile/img4.png" width="360"/>
 
 
 ### 类
